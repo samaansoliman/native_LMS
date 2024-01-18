@@ -13,7 +13,7 @@
         "axios": "^1.1.2",
         "bootstrap": "^4.0.0",
         "laravel-mix": "^6.0.6",
-        "jquery": "2.2.4",
+        "jquery": "3.5.0",
         "laravel-vite-plugin": "^0.7.2",
         "lodash": "^4.17.19",
         "popper.js": "^1.12",
